@@ -13,7 +13,7 @@
 - **Bachelor of Science in Mechanical Engineering**  
   *University of Tehran*  
   *Sep 2020 - Present*  
-  - GPA: 3.83/4.0
+  - GPA: (18.02/20) 3.83/4.0
 
 <!-- Skills -->
 ## 🛠️ Skills
