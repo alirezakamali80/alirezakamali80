@@ -1,4 +1,4 @@
-# سلام — من علیرضا کاملی 👋
+# Alireza Kamali 👋
 
 PhD applicant | Mechanical Engineer  
 **Research:** Robotics, Dynamics & Control, Mechatronics
