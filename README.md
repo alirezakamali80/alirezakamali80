@@ -19,7 +19,6 @@
     <b>Dynamic modeling of a Hybrid manipulator</b>
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/posts/alireza-kamali-8840a7268_what-a-fascinating-project-mechanical-integrator-activity-7223207148728573952-KVTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGCXiQBikv1hUmNnVT2GPb3jsu9vyo_TMk" target="_blank">
     <b>Mechanical Integrator</b>
@@ -35,7 +34,11 @@
     <b>Robotics Course Mini Projects</b>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/alirezakamali80/Plustic-Crusher" target="_blank">
+    <b>Plustic Crusher</b>
+  </a>
+</p>
 ---
 ## 🛠️ Skills & Tools
 <p align="center">
