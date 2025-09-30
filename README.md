@@ -25,8 +25,16 @@
     <b>Mechanical Integrator</b>
   </a>
 </p>.  
-- **Solenoid Rotary Motor** — design, driver and closed-loop control.  
-- **Robotics mini-projects** — ROS modules, motion planners, simulation demos.  
+<p align="center">
+  <a href="https://github.com/alirezakamali80/Solenoid-driven-Rotary-Motor" target="_blank">
+    <b>Solenoid-driven Rotary Motor</b>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alirezakamali80/Robotics-Mini-Projects---Undergraduate-Course" target="_blank">
+    <b>Robotics Course Mini Projects</b>
+  </a>
+</p>
 
 ---
 ## 🛠️ Skills & Tools
