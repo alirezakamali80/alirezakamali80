@@ -14,13 +14,19 @@
 ---
 
 ## 🔍 Selected projects
-- **Dynamic modeling of a Hybrid manipulator** — dynamic model, simulation code & report.  
-- **Mechanical Integrator** — mechanical design, prototype & control.  
+<p align="center">
+  <a href="https://github.com/alirezakamali80/Dynamic-Modeling-of-Hybrid-Robots" target="_blank">
+    <b>Dynamic modeling of a Hybrid manipulator</b>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/alireza-kamali-8840a7268_what-a-fascinating-project-mechanical-integrator-activity-7223207148728573952-KVTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGCXiQBikv1hUmNnVT2GPb3jsu9vyo_TMk" target="_blank">
+    <b>Mechanical Integrator</b>
+  </a>
+</p>.  
 - **Solenoid Rotary Motor** — design, driver and closed-loop control.  
 - **Robotics mini-projects** — ROS modules, motion planners, simulation demos.  
-- **Publications & Papers** — figures, PDFs and reproducible scripts.
-
-(جزئیات هر پروژه در repo مربوط قرار دارد — لینک‌ها در بخش پروژه‌ها/репو‌ها.)
 
 ---
 ## 🛠️ Skills & Tools
@@ -40,7 +46,6 @@
   <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
 </p>
 
-
 ## 📫 Contact & Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/alireza-kamali-8840a7268/" target="_blank">
@@ -55,6 +60,10 @@
   <a href="assets/AlirezaKamali_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
+  
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&user=CvtlSLcAAAAJ" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+</a>
 </p>
 
 ---
