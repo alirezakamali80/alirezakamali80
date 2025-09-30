@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/posts/alireza-kamali-8840a7268_what-a-fascinating-project-mechanical-integrator-activity-7223207148728573952-KVTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGCXiQBikv1hUmNnVT2GPb3jsu9vyo_TMk" target="_blank">
     <b>Mechanical Integrator</b>
   </a>
-</p>.  
+</p> 
 <p align="center">
   <a href="https://github.com/alirezakamali80/Solenoid-driven-Rotary-Motor" target="_blank">
     <b>Solenoid-driven Rotary Motor</b>
