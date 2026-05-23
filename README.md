@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-
+🔭 <strong> Currently Working on:</strong> Design and Fabricatin of a Fin-Ray Robotic Gripper Design.<br/>
   🎓 <strong>Education:</strong> B.Sc. Mechanical Engineering — University of Tehran (GPA: 3.83/4 or 18.04/20).<br/>
     🔭 <strong> Bachelor Thesis:</strong> Dynamic Analysis of Gough–Stewart Parallel Manipulator in a Serial Configuration.<br/>
   🌱 <strong>Interests:</strong> Robotics · Dynamic Modeling & Control Systems · Mechatronics · Bio-inspred Mechanisms
