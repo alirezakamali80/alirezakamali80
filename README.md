@@ -1,7 +1,7 @@
 <h1 align="center">Alireza Kamali 👋</h1>
 <p align="center">
   <strong>Mechanical Engineer — Mechatronics, Robotics & Control Systems</strong><br/>
-  University of Tehran | Research Assistant @ Human-Robot Interaction Lab
+  University of Tehran | Research Assistant @ Human-Robot Interaction Lab & Vibration and Nonlinear Systems
 </p>
 
 <p align="center">
